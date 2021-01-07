@@ -1,1 +1,1 @@
-# This is my notes and solution to cs 231 course of deep learning
+# This is my notes and solutions to cs 231 course of deep learning
